@@ -31,5 +31,13 @@
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.11.0",
     "nodemon": "^1.17.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaiderMalik12/build-and-secure-restful-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HaiderMalik12/build-and-secure-restful-api/issues"
+  },
+  "homepage": "https://github.com/HaiderMalik12/build-and-secure-restful-api#readme"
 }
